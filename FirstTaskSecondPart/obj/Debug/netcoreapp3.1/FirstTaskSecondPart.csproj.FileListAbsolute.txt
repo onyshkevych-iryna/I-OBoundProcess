@@ -1,0 +1,14 @@
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.csproj.AssemblyReference.cache
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.AssemblyInfoInputs.cache
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.AssemblyInfo.cs
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.csproj.CoreCompileInputs.cache
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.exe
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.deps.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.runtimeconfig.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.runtimeconfig.dev.json
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.dll
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\bin\Debug\netcoreapp3.1\FirstTaskSecondPart.pdb
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.dll
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.pdb
+C:\Users\iryna.onyshkevych\OneDrive - Valtech\Bureau\Mentoring\FirstTaskSecondPart\FirstTaskSecondPart\obj\Debug\netcoreapp3.1\FirstTaskSecondPart.genruntimeconfig.cache
